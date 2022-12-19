@@ -1,0 +1,19 @@
+.redbg {
+  color: white;
+  background-color: red;
+  border: solid 2px;
+}
+.greenbg {
+  background-color: green;
+}
+.yellowbg {
+  background-color: yellow;
+}
+.bluebg {
+  background-color: blue;
+}
+.sq200 {
+  width: 200px;
+  height: 200px;
+  border: solid 2px;
+}
